@@ -6,3 +6,5 @@ This is a developer
 
 and i am a backend developer
 and i am learning version control
+
+doing version control from freecodecamp
